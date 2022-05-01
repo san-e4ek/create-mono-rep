@@ -1,0 +1,10 @@
+{
+  "name": "create-mono-rep",
+  "version": "1.0.0",
+  "bin": {
+    "create-mono-rep": "./index.js"
+  },
+  "dependencies": {
+    "download-git-repo": "^3.0.2"
+  }
+}
