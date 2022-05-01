@@ -9,4 +9,4 @@
 ##### 2. Create repo
 `create-mono-rep my-repo`   
 
-##### 3. You get template from [monorepo-template](https://github.com/san-e4ek/monorepo-template)
+##### You will receive a template from [monorepo-template](https://github.com/san-e4ek/monorepo-template)

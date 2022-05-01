@@ -1,8 +1,9 @@
 {
   "name": "create-mono-rep",
   "version": "1.0.0",
+  "keywords": ["create mono repo", "init mono repo", "create monorepo", "init monorepo"],
   "bin": {
-    "create-mono-rep": "./index.js"
+    "create-mono-rep": "./bin/index.js"
   },
   "dependencies": {
     "download-git-repo": "^3.0.2"
